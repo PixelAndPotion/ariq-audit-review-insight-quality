@@ -32,5 +32,6 @@ streamlit run src/dashboard.py
 ## Dashboard Screenshot
 ![Dashboard](reports/assets/Screenshot%202026-05-10%20170857.png)
 
-## PDF Report Example
-![Audit Report](reports/assets/audit_report.png)
+## SHAP Summary
+![SHAP Summary](reports/assets/shap_summary.png)
+
